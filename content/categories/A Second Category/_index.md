@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: A Second Category
 description: A description of this category
 image: 
 

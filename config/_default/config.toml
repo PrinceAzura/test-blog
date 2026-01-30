@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://princeazura.github.io/test-blog/"
+baseurl      = "https://PrinceAzura.github.io/test-blog"
 languageCode = "en-us"
 title        = "Mika blog"
 
